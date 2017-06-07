@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConditionalAlarm</string>
+
+    <string name="btn_start"> Start </string>
+    <string name="btn_stop"> Stop </string>
+    <string name="ring">Enough Rest. Do Work Now!</string>
+</resources>
